@@ -1,0 +1,1 @@
+(function(){stButtons.processCB({"yahoo":4,"google":2333,"clicks_total":2477,"facebook":2,"twitter":141,"linkedin":1,"googleplus":4,"total":2485,"shares":{"linkedin":1,"all":8,"twitter":7},"url":"http:\/\/www.mediacurrent.com\/blog\/top-10-drupal-modules-publishers","ourl":"http:\/\/www.mediacurrent.com\/blog\/top-10-drupal-modules-publishers#sthash.LkzfK25e"})})();
