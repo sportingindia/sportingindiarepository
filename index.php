@@ -1,7 +1,7 @@
  
 <html> 
 <head> 
-<title>HTML and PHP together</title> 
+<title>HTML and PHP together but let's see</title> 
 </head> 
 <body> 
 <h1 align=center> 
