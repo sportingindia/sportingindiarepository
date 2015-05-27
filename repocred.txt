@@ -1,0 +1,4 @@
+repo credentials
+
+user name : sportingindia
+password : 89Password98
